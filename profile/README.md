@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="./app-icon.png" width="88" height="88" alt="payfor工大 图标">
-</p>
-<h1 align="center">payfor工大</h1>
-<p align="center">面向合肥工业大学校园日常消费与费用查询的第三方 Android 校园卡工具</p>
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;./app-icon.png&quot; width=&quot;88&quot; height=&quot;88&quot; alt=&quot;payfor工大 图标&quot;&gt;
+&lt;/p&gt;
+&lt;h1 align=&quot;center&quot;&gt;payfor工大&lt;/h1&gt;
+&lt;p align=&quot;center&quot;&gt;面向合肥工业大学校园日常消费与费用查询的第三方 Android 校园卡工具&lt;/p&gt;
 
 **payfor工大** 是一款个人维护的第三方 Android 校园卡工具（支持 Android 8.0 及以上），适用于食堂消费、校内缴费及费用核对等日常场景，提供校园付款二维码与条形码展示、校园卡余额与校园费用查询，以及部分费用的手动充值功能。合肥校区与宣城校区的可用项目存在差异。
 
@@ -27,3 +27,7 @@
 仅建议具备相应技术能力、能够自行完成配置与问题排查、核对账单并愿意承担试用风险的用户安装。若充值结果尚未确认，请先核对校方账单后再决定是否继续操作。
 
 - **插件文档与下载**：安装前请阅读 [说明与风险](https://github.com/hfut-payment/hfut-payment-auto-recharge#readme)，安装包见 [插件发行版](https://github.com/hfut-payment/hfut-payment-auto-recharge/releases)。
+
+### 来源与许可说明
+
+校园费用与账单相关功能的实现查阅并参考了开源项目 [聚在工大（Chiu-xaH/HFUT-Schedule）](https://github.com/Chiu-xaH/HFUT-Schedule)，在此致谢。更多许可条款与第三方声明请查阅 [主应用的第三方声明](https://github.com/hfut-payment/hfut-payment/blob/main/THIRD_PARTY_NOTICES.md)。
